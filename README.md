@@ -1,2 +1,2 @@
 # CrossDownloadManager
-CrossDownloadManager is a simple download manager with c# and its under development and its CrossPlatform
+CrossDownloadManager is a simple download manager that writed in c# and its CrossPlatform and you can compile it on Windows | Mac | Linux
